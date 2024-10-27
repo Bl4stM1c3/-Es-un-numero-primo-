@@ -1,4 +1,6 @@
-#Esta es una posible solucion en python al ejercicio nº 4 de https://retosdeprogramacion.com/ejercicios/ 
+#Esta es una posible solucion en python al ejercicio nº 4 de https://retosdeprogramacion.com/ejercicios/
+#Escribe un programa que se encargue de comprobar si un número es o no primo.
+#Hecho esto, imprime los números primos entre 1 y 100.
 
 
 #Creamos una funcion que identifique si el numero es primo o no
